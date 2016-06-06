@@ -2,7 +2,7 @@
 A small library management web app written in Django Python.
 
 
-How to run
+<h1><b>How to run</b></h1>
 
 1) Install dependency using pip:
 
@@ -14,9 +14,9 @@ How to run
 
  <code> python manage.py makemigrations</code>
   
-  python manage.py migrate
+  <code> python manage.py migrate </code>
   
-  python manage.py runserver
+  <code> python manage.py runserver </code>
   
 
   Access server address in browser
