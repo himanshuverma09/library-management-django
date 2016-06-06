@@ -12,7 +12,7 @@ How to run
 
   run:
 
-  python manage.py makemigrations
+ <code> python manage.py makemigrations</code>
   
   python manage.py migrate
   
