@@ -13,7 +13,10 @@ How to run
   run:
 
   python manage.py makemigrations
+  
   python manage.py migrate
+  
   python manage.py runserver
+  
 
   Access server address in browser
